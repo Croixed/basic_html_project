@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+header {
+    background-color: slateblue;
+}
+
+
+
+
+main {
+
+}
+
+.hero {
+
+}
+
+table {
+    background-color: cyan;
+}
+
+form {
+    background-color: slategray;
+}
+
+
+footer {
+  background-color: slateblue;
+}
